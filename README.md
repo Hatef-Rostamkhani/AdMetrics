@@ -20,10 +20,10 @@ This application reads and analyzes impression and click events from JSON files 
     git clone https://github.com/Hatef-Rostamkhani/AdMetrics.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: where contain csproj
 
     ```cmd
-    cd admetrics-analyzer
+    cd AdsAdviser
     ```
 
 3. Build the application:
