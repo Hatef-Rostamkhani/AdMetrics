@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1f0b9b94-87c4-4e8d-8185-ee44924c7b2",
+    "app_id": 1,
+    "country_code": "US",
+    "advertiser_id": 101
+  },
+  {
+    "id": "2a1c5e8d-6fb2-43a2-b127-d889d3c4f7e7",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 102
+  },
+  {
+    "id": "3b2d9c8a-94e6-4f91-aec7-768d5e0d3010",
+    "app_id": "ss",
+    "country_code": "US",
+    "advertiser_id": 103
+  },
+  {
+    "id": "4c3e2d1a-8b6f-402a-bd18-6c9a0a8d7e49",
+    "app_id": 2,
+    "country_code": "CA",
+    "advertiser_id": 101
+  },
+  {
+    "id": "5d4e6c7b-8a9f-4c3e-b2d1-1a0f9e8d6c5b",
+    "app_id": 3,
+    "country_code": "UK",
+    "advertiser_id": 104
+  }
+]
