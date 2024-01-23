@@ -17,7 +17,7 @@ This application reads and analyzes impression and click events from JSON files 
 1. Clone the repository:
 
     ```cmd
-    git clone https://github.com/Hatef-Rostamkhani/AdMetrics/admetrics-analyzer.git
+    git clone https://github.com/Hatef-Rostamkhani/AdMetrics.git
     ```
 
 2. Navigate to the project directory:
@@ -35,7 +35,7 @@ This application reads and analyzes impression and click events from JSON files 
 4. Run the application with the paths to impression and click events JSON files:
 
     ```cmd
-    dotnet run path/to/impressions.json path/to/clicks.json
+    dotnet run SampleData/impressions.json SampleData/clicks.json
     ```
 
 5. View the generated results in the `metrics.json` and `recommendations.json` files.
