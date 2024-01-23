@@ -17,7 +17,7 @@ This application reads and analyzes impression and click events from JSON files 
 1. Clone the repository:
 
     ```cmd
-    git clone [https://github.com/Hatef-Rostamkhani/AdMetrics/admetrics-analyzer.git](https://github.com/Hatef-Rostamkhani/AdMetrics.git)
+    git clone https://github.com/Hatef-Rostamkhani/AdMetrics/admetrics-analyzer.git
     ```
 
 2. Navigate to the project directory:
