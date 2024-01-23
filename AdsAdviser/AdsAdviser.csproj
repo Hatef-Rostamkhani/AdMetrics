@@ -13,10 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="clicks.json">
+    <Content Include="SampleData\clicks.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="impression.json">
+    <Content Include="SampleData\impression.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
