@@ -49,7 +49,10 @@ class Program
         settings.FloatParseHandling = FloatParseHandling.Double;
         settings.MissingMemberHandling = MissingMemberHandling.Ignore;
         settings.Error = HandleDeserializationError;
-        return JsonConvert.DeserializeObject<T>(jsonContent, settings);
+        var data = JsonConvert.DeserializeObject<T>(jsonContent, settings);
+        if (data == null)
+            throw new Exception("Can not Deserialize file");
+        return data;
     }
 
     /// <summary>
